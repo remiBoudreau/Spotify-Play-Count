@@ -1,0 +1,24 @@
+h1 {
+    border: 2px #eee solid;
+    color: brown;
+    text-align: center;
+    padding: 10px;
+}
+
+
+table, th, td {
+  border: 1px solid rgb(124, 122, 122);
+  border-collapse: collapse;
+    padding: 15px;
+    width:50px;
+    height:10px;
+    text-align: center;
+    align-items: center;
+    
+}
+table{
+  width: 100%;
+}
+th  {
+  background-color: #D6EEEE;
+}
